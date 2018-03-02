@@ -1,2 +1,2 @@
 # MIPS-pipeline-CPU
-It's just a homework.
+警告，此项目仅保证样例程序通过，暂存在逻辑错误，请勿直接使用。
